@@ -1,25 +1,23 @@
 #include <iostream>
+#include <vector>
 
-int fibo_module(int n, int m) {
+long long fibo_module(long long n, long long m) {
     if (n <= 1) return n;
+    long long cycle = 0;
 
-    auto *fibo = new long long[n];
-    fibo[0] = 0, fibo[1] = 1;
-
-    auto *pisano = new long long[10000];
+    std::vector<long long> pisano(10000);
     pisano[0] = 0, pisano[1] = 1;
 
-    for (int j = 2; j < n; ++j)
-        fibo[j] = fibo[j - 1] + fibo[j - 2];
+    for (long long j = 2; j < n; ++j)
+        pisano[j] = (pisano[j - 1] + pisano[j - 2]) % m;
 
-    for (int i = 2; i < n; ++i) {
-        long long cycle = 0;
-        pisano[i] = fibo[i] % m;
-        if (pisano[i] == 1 && pisano[i - 1] == 0) {
-            cycle = i - 1;
-            return pisano[n % cycle];
+    for (long long i = 2; i < n; ++i) {
+        if (pisano[i] == 0 && pisano[i + 1] == 1) {
+            cycle = i;
+            break;
         }
     }
+    return pisano[n % cycle];
 }
 
 int main(){
