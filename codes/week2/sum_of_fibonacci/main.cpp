@@ -1,15 +1,15 @@
 #include <iostream>
 using namespace std;
 
-long long sum_fibo(int n){
+long long sum_fibo(int n) {
     long long prev = 0, curr = 1, last = 1;
     if (n < 2) return n;
-    for (int i = 2; i <= n; i++) {
+    for (int i = 0; i < n - 1; i++) {
         long long temprev = prev;
         prev = curr;
-        curr += temprev;
+        curr += (temprev % 10);
 //        cout << "curr: " << curr << " ";
-        last += curr;
+        last += (curr % 10);
 //        cout << "last: " << last << " ";
     }
     return last % 10; // 方法不够高效 和好像是错的
