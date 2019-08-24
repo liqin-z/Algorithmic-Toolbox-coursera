@@ -3,6 +3,7 @@ using namespace std;
 
 long long sum_fibo(int n){
     long long prev = 0, curr = 1, last = 1;
+    if (n < 2) return n;
     for (int i = 2; i <= n; i++) {
         long long temprev = prev;
         prev = curr;
