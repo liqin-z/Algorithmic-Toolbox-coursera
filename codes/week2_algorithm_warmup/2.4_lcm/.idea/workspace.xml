@@ -12,64 +12,271 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f4c41ba-ed20-42e4-a355-ecec62f79f3e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/week2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/week2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fibonacci.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fibonacci/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fibonacci/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fibonacci/cmake-build-debug 2/CMakeFiles/clion-log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gcd/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gcd/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../last_digit_fibonacci/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../last_digit_fibonacci/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lcd/.idea/lcd.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lcd/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lcd/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lcd/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../max_pairwise_product/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../max_pairwise_product/.idea/max_pairwise_product.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../max_pairwise_product/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../max_pairwise_product/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../max_pairwise_product/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../max_pairwise_product/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../max_pairwise_product/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../max_pairwise_product/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../max_pairwise_product/cmake-build-debug/CMakeFiles/3.14.3/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../max_pairwise_product/cmake-build-debug/CMakeFiles/3.14.3/CMakeCXXCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../max_pairwise_product/cmake-build-debug/CMakeFiles/3.14.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../max_pairwise_product/cmake-build-debug/CMakeFiles/3.14.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../max_pairwise_product/cmake-build-debug/CMakeFiles/3.14.3/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../max_pairwise_product/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../max_pairwise_product/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdC/a.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../max_pairwise_product/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../max_pairwise_product/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdCXX/a.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../max_pairwise_product/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../max_pairwise_product/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../max_pairwise_product/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../max_pairwise_product/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../max_pairwise_product/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../max_pairwise_product/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../max_pairwise_product/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../max_pairwise_product/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../max_pairwise_product/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../max_pairwise_product/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../max_pairwise_product/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../max_pairwise_product/cmake-build-debug/CMakeFiles/max_pairwise_product.dir/CXX.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../max_pairwise_product/cmake-build-debug/CMakeFiles/max_pairwise_product.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../max_pairwise_product/cmake-build-debug/CMakeFiles/max_pairwise_product.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../max_pairwise_product/cmake-build-debug/CMakeFiles/max_pairwise_product.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../max_pairwise_product/cmake-build-debug/CMakeFiles/max_pairwise_product.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../max_pairwise_product/cmake-build-debug/CMakeFiles/max_pairwise_product.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../max_pairwise_product/cmake-build-debug/CMakeFiles/max_pairwise_product.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../max_pairwise_product/cmake-build-debug/CMakeFiles/max_pairwise_product.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../max_pairwise_product/cmake-build-debug/CMakeFiles/max_pairwise_product.dir/main.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../max_pairwise_product/cmake-build-debug/CMakeFiles/max_pairwise_product.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../max_pairwise_product/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../max_pairwise_product/cmake-build-debug/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../max_pairwise_product/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../max_pairwise_product/cmake-build-debug/max_pairwise_product" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../max_pairwise_product/cmake-build-debug/max_pairwise_product.cbp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../max_pairwise_product/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lcd.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lcd.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lcd.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lcd.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lcd.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lcd.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lcd.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lcm.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lcm.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lcm.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lcm.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lcm.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lcm.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lcm.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lcm.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lcm.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lcm.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/lcm" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/lcm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/lcm.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/lcm.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/car_fueling/.idea/car_fueling.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/car_fueling/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/car_fueling/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/car_fueling/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/car_fueling/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/car_fueling/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/car_fueling/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/car_fueling/cmake-build-debug/CMakeFiles/3.14.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/car_fueling/cmake-build-debug/CMakeFiles/3.14.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/car_fueling/cmake-build-debug/CMakeFiles/3.14.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/car_fueling/cmake-build-debug/CMakeFiles/3.14.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/car_fueling/cmake-build-debug/CMakeFiles/3.14.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/car_fueling/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/car_fueling/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/car_fueling/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/car_fueling/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/car_fueling/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/car_fueling/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/car_fueling/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/car_fueling/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/car_fueling/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/car_fueling/cmake-build-debug/CMakeFiles/car_fueling.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/car_fueling/cmake-build-debug/CMakeFiles/car_fueling.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/car_fueling/cmake-build-debug/CMakeFiles/car_fueling.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/car_fueling/cmake-build-debug/CMakeFiles/car_fueling.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/car_fueling/cmake-build-debug/CMakeFiles/car_fueling.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/car_fueling/cmake-build-debug/CMakeFiles/car_fueling.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/car_fueling/cmake-build-debug/CMakeFiles/car_fueling.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/car_fueling/cmake-build-debug/CMakeFiles/car_fueling.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/car_fueling/cmake-build-debug/CMakeFiles/car_fueling.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/car_fueling/cmake-build-debug/CMakeFiles/car_fueling.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/car_fueling/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/car_fueling/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/car_fueling/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/car_fueling/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/car_fueling/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/car_fueling/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/car_fueling/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/car_fueling/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/car_fueling/cmake-build-debug/car_fueling" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/car_fueling/cmake-build-debug/car_fueling.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/car_fueling/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/car_fueling/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/collect_signature/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/collect_signature/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/collect_signature/.idea/collect_signature.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/collect_signature/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/collect_signature/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/collect_signature/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/collect_signature/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/collect_signature/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/collect_signature/cmake-build-debug/CMakeFiles/3.14.5/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/collect_signature/cmake-build-debug/CMakeFiles/3.14.5/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/collect_signature/cmake-build-debug/CMakeFiles/3.14.5/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/collect_signature/cmake-build-debug/CMakeFiles/3.14.5/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/collect_signature/cmake-build-debug/CMakeFiles/3.14.5/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/collect_signature/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/collect_signature/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/collect_signature/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/collect_signature/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/collect_signature/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/collect_signature/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/collect_signature/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/collect_signature/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/collect_signature/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/collect_signature/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/collect_signature/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/collect_signature/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/collect_signature/cmake-build-debug/CMakeFiles/collect_signature.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/collect_signature/cmake-build-debug/CMakeFiles/collect_signature.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/collect_signature/cmake-build-debug/CMakeFiles/collect_signature.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/collect_signature/cmake-build-debug/CMakeFiles/collect_signature.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/collect_signature/cmake-build-debug/CMakeFiles/collect_signature.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/collect_signature/cmake-build-debug/CMakeFiles/collect_signature.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/collect_signature/cmake-build-debug/CMakeFiles/collect_signature.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/collect_signature/cmake-build-debug/CMakeFiles/collect_signature.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/collect_signature/cmake-build-debug/CMakeFiles/collect_signature.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/collect_signature/cmake-build-debug/CMakeFiles/collect_signature.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/collect_signature/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/collect_signature/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/collect_signature/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/collect_signature/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/collect_signature/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/collect_signature/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/collect_signature/cmake-build-debug/collect_signature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/collect_signature/cmake-build-debug/collect_signature.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/collect_signature/erase.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/collect_signature/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_ad_revenue/.idea/max_ad_revenue.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_ad_revenue/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_ad_revenue/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_ad_revenue/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_ad_revenue/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_ad_revenue/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_ad_revenue/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_ad_revenue/cmake-build-debug/CMakeFiles/3.14.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_ad_revenue/cmake-build-debug/CMakeFiles/3.14.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_ad_revenue/cmake-build-debug/CMakeFiles/3.14.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_ad_revenue/cmake-build-debug/CMakeFiles/3.14.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_ad_revenue/cmake-build-debug/CMakeFiles/3.14.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_ad_revenue/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_ad_revenue/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_ad_revenue/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_ad_revenue/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_ad_revenue/cmake-build-debug/CMakeFiles/3.14.5/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_ad_revenue/cmake-build-debug/CMakeFiles/3.14.5/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_ad_revenue/cmake-build-debug/CMakeFiles/3.14.5/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_ad_revenue/cmake-build-debug/CMakeFiles/3.14.5/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_ad_revenue/cmake-build-debug/CMakeFiles/3.14.5/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_ad_revenue/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_ad_revenue/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_ad_revenue/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_ad_revenue/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_ad_revenue/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_ad_revenue/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_ad_revenue/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_ad_revenue/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_ad_revenue/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_ad_revenue/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_ad_revenue/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_ad_revenue/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_ad_revenue/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_ad_revenue/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_ad_revenue/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_ad_revenue/cmake-build-debug/CMakeFiles/max_ad_revenue.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_ad_revenue/cmake-build-debug/CMakeFiles/max_ad_revenue.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_ad_revenue/cmake-build-debug/CMakeFiles/max_ad_revenue.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_ad_revenue/cmake-build-debug/CMakeFiles/max_ad_revenue.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_ad_revenue/cmake-build-debug/CMakeFiles/max_ad_revenue.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_ad_revenue/cmake-build-debug/CMakeFiles/max_ad_revenue.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_ad_revenue/cmake-build-debug/CMakeFiles/max_ad_revenue.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_ad_revenue/cmake-build-debug/CMakeFiles/max_ad_revenue.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_ad_revenue/cmake-build-debug/CMakeFiles/max_ad_revenue.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_ad_revenue/cmake-build-debug/CMakeFiles/max_ad_revenue.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_ad_revenue/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_ad_revenue/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_ad_revenue/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_ad_revenue/cmake-build-debug/max_ad_revenue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_ad_revenue/cmake-build-debug/max_ad_revenue.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_ad_revenue/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_value_of_loot/.idea/max_value_of_loot.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_value_of_loot/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_value_of_loot/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_value_of_loot/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_value_of_loot/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_value_of_loot/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_value_of_loot/bubble_indices.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_value_of_loot/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_value_of_loot/cmake-build-debug/CMakeFiles/3.14.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_value_of_loot/cmake-build-debug/CMakeFiles/3.14.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_value_of_loot/cmake-build-debug/CMakeFiles/3.14.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_value_of_loot/cmake-build-debug/CMakeFiles/3.14.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_value_of_loot/cmake-build-debug/CMakeFiles/3.14.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_value_of_loot/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_value_of_loot/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_value_of_loot/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_value_of_loot/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_value_of_loot/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_value_of_loot/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_value_of_loot/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_value_of_loot/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_value_of_loot/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_value_of_loot/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_value_of_loot/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_value_of_loot/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_value_of_loot/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_value_of_loot/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_value_of_loot/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_value_of_loot/cmake-build-debug/CMakeFiles/max_value_of_loot.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_value_of_loot/cmake-build-debug/CMakeFiles/max_value_of_loot.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_value_of_loot/cmake-build-debug/CMakeFiles/max_value_of_loot.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_value_of_loot/cmake-build-debug/CMakeFiles/max_value_of_loot.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_value_of_loot/cmake-build-debug/CMakeFiles/max_value_of_loot.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_value_of_loot/cmake-build-debug/CMakeFiles/max_value_of_loot.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_value_of_loot/cmake-build-debug/CMakeFiles/max_value_of_loot.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_value_of_loot/cmake-build-debug/CMakeFiles/max_value_of_loot.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_value_of_loot/cmake-build-debug/CMakeFiles/max_value_of_loot.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_value_of_loot/cmake-build-debug/CMakeFiles/max_value_of_loot.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_value_of_loot/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_value_of_loot/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_value_of_loot/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_value_of_loot/cmake-build-debug/max_value_of_loot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_value_of_loot/cmake-build-debug/max_value_of_loot.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_value_of_loot/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_value_of_loot/test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/max_value_of_loot/test.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/money_change/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/money_change/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/money_change/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/money_change/.idea/money change.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/money_change/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/money_change/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/money_change/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/money_change/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/money_change/cmake-build-debug/CMakeFiles/3.14.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/money_change/cmake-build-debug/CMakeFiles/3.14.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/money_change/cmake-build-debug/CMakeFiles/3.14.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/money_change/cmake-build-debug/CMakeFiles/3.14.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/money_change/cmake-build-debug/CMakeFiles/3.14.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/money_change/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/money_change/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/money_change/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/money_change/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/money_change/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/money_change/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/money_change/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/money_change/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/money_change/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/money_change/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/money_change/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/money_change/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/money_change/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/money_change/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/money_change/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/money_change/cmake-build-debug/CMakeFiles/money_change.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/money_change/cmake-build-debug/CMakeFiles/money_change.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/money_change/cmake-build-debug/CMakeFiles/money_change.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/money_change/cmake-build-debug/CMakeFiles/money_change.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/money_change/cmake-build-debug/CMakeFiles/money_change.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/money_change/cmake-build-debug/CMakeFiles/money_change.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/money_change/cmake-build-debug/CMakeFiles/money_change.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/money_change/cmake-build-debug/CMakeFiles/money_change.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/money_change/cmake-build-debug/CMakeFiles/money_change.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/money_change/cmake-build-debug/CMakeFiles/money_change.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/money_change/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/money_change/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/money_change/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/money_change/cmake-build-debug/money_change" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/money_change/cmake-build-debug/money_change.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week3_greedy_algorithm/money_change/main.cpp" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,53 +287,15 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/main.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
-        <option value="$PROJECT_DIR$/main.cpp" />
-      </list>
-    </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1680" />
     <option name="height" value="1050" />
   </component>
+  <component name="ProjectId" id="1Q8htUH9Us9d2FUP8XzHBY0cqqM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane" />
-      <pane id="Scope" />
-    </panes>
-  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -252,56 +421,23 @@
       <updated>1566378005011</updated>
       <workItem from="1566378006077" duration="1324000" />
       <workItem from="1566450396565" duration="589000" />
+      <workItem from="1567158348767" duration="251000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1913000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16461916" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.3298647" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3298647" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Database Changes" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3298647" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="CMake" order="11" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="masterDetails">
     <states>

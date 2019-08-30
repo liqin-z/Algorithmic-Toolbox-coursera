@@ -18,6 +18,11 @@ int main() {
     // The fastest way to find lcm of a and b is to use a*b/gcd(a,b)
     int64_t a, b;
     cin >> a >> b;
-    cout << a * b / gcd_helper(a, b) << endl;
+    if (a < 1 || b < 1 || a > 10000000 || b > 10000000){
+        cout << 0 << endl;
+        return 0;
+    }
+    else
+        cout << a * b / gcd_helper(a, b) << endl;
     return 0;
 }
