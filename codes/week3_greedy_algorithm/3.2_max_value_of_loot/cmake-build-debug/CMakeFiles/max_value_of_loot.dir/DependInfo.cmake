@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/gravescn/Library/Mobile Documents/com~apple~CloudDocs/Programming/coursera/algorithm-coursera/codes/week3_greedy_algorithm/max_value_of_loot/main.cpp" "/Users/gravescn/Library/Mobile Documents/com~apple~CloudDocs/Programming/coursera/algorithm-coursera/codes/week3_greedy_algorithm/max_value_of_loot/cmake-build-debug/CMakeFiles/max_value_of_loot.dir/main.cpp.o"
+  "/Users/gravescn/Library/Mobile Documents/com~apple~CloudDocs/Programming/coursera/algorithm-coursera/codes/week3_greedy_algorithm/3.2_max_value_of_loot/main.cpp" "/Users/gravescn/Library/Mobile Documents/com~apple~CloudDocs/Programming/coursera/algorithm-coursera/codes/week3_greedy_algorithm/3.2_max_value_of_loot/cmake-build-debug/CMakeFiles/max_value_of_loot.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
