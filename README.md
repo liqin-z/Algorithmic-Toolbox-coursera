@@ -13,7 +13,7 @@ Assignments for Algorithmic Toolbox on Coursera with time and memory results fro
 
 ## Week 1
 ### Solving a Simple Code Problem
-Problem: [Maximum Pairwise Product](https://github.com/mablatnik/Data-Structures-And-Algorithms/tree/master/algorithmic_toolbox/week_1/maximum_pairwise_product)
+Problem: [Maximum Pairwise Product](https://github.com/graveszhang/Specialization-Algorithmic-Toolbox-coursera/blob/master/codes/week1_simple_challenges/max_pairwise_product/main.cpp)
 
 ## Week 2
 ###  Prgramming Assignment: [Introduction](https://github.com/mablatnik/Data-Structures-And-Algorithms/blob/master/algorithmic_toolbox/week_2/01_introduction_problems.pdf)
