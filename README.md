@@ -16,32 +16,36 @@ Assignments for Algorithmic Toolbox on Coursera with time and memory results fro
 Problem: [Maximum Pairwise Product](https://github.com/graveszhang/Specialization-Algorithmic-Toolbox-coursera/blob/master/codes/week1_simple_challenges/max_pairwise_product/main.cpp)
 
 ## Week 2
-###  Prgramming Assignment: [Introduction](https://github.com/mablatnik/Data-Structures-And-Algorithms/blob/master/algorithmic_toolbox/week_2/01_introduction_problems.pdf)
-Problem: [Small Fibonacci Number](https://github.com/mablatnik/Data-Structures-And-Algorithms/tree/master/algorithmic_toolbox/week_2/01_introduction_starter_files/fibonacci) </br>
+###  Prgramming Assignment: [Introduction](https://github.com/graveszhang/Specialization-Algorithmic-Toolbox-coursera/blob/master/slides/week2_algorithmic_warmup/week2_algorithmic_warmup.pdf)
+Problem: [Small Fibonacci Number](https://github.com/graveszhang/Specialization-Algorithmic-Toolbox-coursera/blob/master/codes/week2_algorithm_warmup/2.1_fibonacci/fibonacci.cpp) </br>
 
-Problem: [The Last Digit of a Large Fibonacci Number](https://github.com/mablatnik/Data-Structures-And-Algorithms/tree/master/algorithmic_toolbox/week_2/01_introduction_starter_files/fibonacci_last_digit) </br>
+Problem: [The Last Digit of a Large Fibonacci Number](https://github.com/graveszhang/Specialization-Algorithmic-Toolbox-coursera/blob/master/codes/week2_algorithm_warmup/2.2_last_digit_fibonacci/main.cpp) </br>
 
-Problem: [Greatest Common Divisor](https://github.com/mablatnik/Data-Structures-And-Algorithms/tree/master/algorithmic_toolbox/week_2/01_introduction_starter_files/gcd) </br>
+Problem: [Greatest Common Divisor](https://github.com/graveszhang/Specialization-Algorithmic-Toolbox-coursera/blob/master/codes/week2_algorithm_warmup/2.3_gcd/main.cpp) </br>
 
-Problem: [Least Common Multiple](https://github.com/mablatnik/Data-Structures-And-Algorithms/tree/master/algorithmic_toolbox/week_2/01_introduction_starter_files/lcm) </br>
+Problem: [Least Common Multiple](https://github.com/graveszhang/Specialization-Algorithmic-Toolbox-coursera/blob/master/codes/week2_algorithm_warmup/2.4_lcm/main.cpp) </br>
 
-Advanced Problem: [Huge Fibonacci Number modulo m](https://github.com/mablatnik/Data-Structures-And-Algorithms/tree/master/algorithmic_toolbox/week_2/01_introduction_starter_files/fibonacci_huge) </br>
+Advanced Problem: [Huge Fibonacci Number modulo m](https://github.com/graveszhang/Specialization-Algorithmic-Toolbox-coursera/tree/master/codes/week2_algorithm_warmup/2.5_pisano_loop) </br>
 
-Advanced Problem: [Last Digit of a Sum of Fibonacci Numbers](https://github.com/mablatnik/Data-Structures-And-Algorithms/tree/master/algorithmic_toolbox/week_2/01_introduction_starter_files/fibonacci_sum_last_digit) </br>
+Advanced Problem: [Last Digit of a Sum of Fibonacci Numbers](https://github.com/graveszhang/Specialization-Algorithmic-Toolbox-coursera/blob/master/codes/week2_algorithm_warmup/2.6_sum_of_fibonacci/main.cpp) </br>
 
-Advanced Problem: [Last Digit of a Partial Sum of Fibonacci Numbers](https://github.com/mablatnik/Data-Structures-And-Algorithms/tree/master/algorithmic_toolbox/week_2/01_introduction_starter_files/fibonacci_partial_sum) </br>
+Advanced Problem: [Last Digit of a Partial Sum of Fibonacci Numbers](https://github.com/graveszhang/Specialization-Algorithmic-Toolbox-coursera/blob/master/codes/week2_algorithm_warmup/2.7_last_digit_fibonacci_again/main.cpp) </br>
+
+Advanced Problem: [Last Digit of a Sum of Square of Fibonacci Numbers](https://github.com/graveszhang/Specialization-Algorithmic-Toolbox-coursera/blob/master/codes/week2_algorithm_warmup/2.8_last_digit_fibonacci_square/main.cpp) </br>
 
 ## Week 3
-###  Programming Assignment: [Greedy Algorithms](https://github.com/mablatnik/Data-Structures-And-Algorithms/blob/master/algorithmic_toolbox/week_3/02_greedy_algorithms_problems.pdf)
-Problem: [Changing Money](https://github.com/mablatnik/Data-Structures-And-Algorithms/tree/master/algorithmic_toolbox/week_3/02_greedy_algorithms_starter_files/change) </br>
+###  Programming Assignment: [Greedy Algorithms](https://github.com/graveszhang/Specialization-Algorithmic-Toolbox-coursera/blob/master/slides/week3_greedy_algorithms/week3_greedy_algorithms.pdf)
+Problem: [Changing Money](https://github.com/graveszhang/Specialization-Algorithmic-Toolbox-coursera/blob/master/codes/week3_greedy_algorithm/3.1_money_change/main.cpp) </br>
 
-Problem: [Fractional Knapsack](https://github.com/mablatnik/Data-Structures-And-Algorithms/tree/master/algorithmic_toolbox/week_3/02_greedy_algorithms_starter_files/fractional_knapsack) </br>
+Problem: [Max Value of Loot](https://github.com/graveszhang/Specialization-Algorithmic-Toolbox-coursera/blob/master/codes/week3_greedy_algorithm/3.2_max_value_of_loot/main.cpp) </br>
 
-Problem: [Minimum Dot Product](https://github.com/mablatnik/Data-Structures-And-Algorithms/tree/master/algorithmic_toolbox/week_3/02_greedy_algorithms_starter_files/dot_product) </br>
+Problem: [Car Fueling](https://github.com/graveszhang/Specialization-Algorithmic-Toolbox-coursera/blob/master/codes/week3_greedy_algorithm/3.3_car_fueling/main.cpp) </br>
 
-Problem: [Covering Segments by Points](https://github.com/mablatnik/Data-Structures-And-Algorithms/tree/master/algorithmic_toolbox/week_3/02_greedy_algorithms_starter_files/covering_segments) </br>
+Problem: [Minimum Dot Product](https://github.com/graveszhang/Specialization-Algorithmic-Toolbox-coursera/blob/master/codes/week3_greedy_algorithm/3.4_max_ad_revenue/main.cpp) </br>
 
-Problem: [Pairwise Distinct Summands](https://github.com/mablatnik/Data-Structures-And-Algorithms/tree/master/algorithmic_toolbox/week_3/02_greedy_algorithms_starter_files/different_summands) </br>
+Problem: [Covering Segments by Points](https://github.com/graveszhang/Specialization-Algorithmic-Toolbox-coursera/blob/master/codes/week3_greedy_algorithm/3.5_colloect_signatures/main.cpp) </br>
+
+Problem: [Pairwise Distinct Summands](https://github.com/graveszhang/Specialization-Algorithmic-Toolbox-coursera/blob/master/codes/week3_greedy_algorithm/3.6_max_num_prizes/main.cpp) </br>
 
 ## Week 4
 ###  Programming Assignment: [Divide and Conquer](https://github.com/mablatnik/Data-Structures-And-Algorithms/blob/master/algorithmic_toolbox/week_4/03_divide_and_conquer_problems.pdf)
