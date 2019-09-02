@@ -123,32 +123,32 @@ depend:
 	$(MAKE) -f CMakeFiles/3_7_max_salary.dir/build.make CMakeFiles/3_7_max_salary.dir/build
 .PHONY : 3_7_max_salary/fast
 
-largest_number.o: largest_number.cpp.o
+main.o: main.cpp.o
 
-.PHONY : largest_number.o
+.PHONY : main.o
 
 # target to build an object file
-largest_number.cpp.o:
-	$(MAKE) -f CMakeFiles/3_7_max_salary.dir/build.make CMakeFiles/3_7_max_salary.dir/largest_number.cpp.o
-.PHONY : largest_number.cpp.o
+main.cpp.o:
+	$(MAKE) -f CMakeFiles/3_7_max_salary.dir/build.make CMakeFiles/3_7_max_salary.dir/main.cpp.o
+.PHONY : main.cpp.o
 
-largest_number.i: largest_number.cpp.i
+main.i: main.cpp.i
 
-.PHONY : largest_number.i
+.PHONY : main.i
 
 # target to preprocess a source file
-largest_number.cpp.i:
-	$(MAKE) -f CMakeFiles/3_7_max_salary.dir/build.make CMakeFiles/3_7_max_salary.dir/largest_number.cpp.i
-.PHONY : largest_number.cpp.i
+main.cpp.i:
+	$(MAKE) -f CMakeFiles/3_7_max_salary.dir/build.make CMakeFiles/3_7_max_salary.dir/main.cpp.i
+.PHONY : main.cpp.i
 
-largest_number.s: largest_number.cpp.s
+main.s: main.cpp.s
 
-.PHONY : largest_number.s
+.PHONY : main.s
 
 # target to generate assembly for a file
-largest_number.cpp.s:
-	$(MAKE) -f CMakeFiles/3_7_max_salary.dir/build.make CMakeFiles/3_7_max_salary.dir/largest_number.cpp.s
-.PHONY : largest_number.cpp.s
+main.cpp.s:
+	$(MAKE) -f CMakeFiles/3_7_max_salary.dir/build.make CMakeFiles/3_7_max_salary.dir/main.cpp.s
+.PHONY : main.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... 3_7_max_salary"
-	@echo "... largest_number.o"
-	@echo "... largest_number.i"
-	@echo "... largest_number.s"
+	@echo "... main.o"
+	@echo "... main.i"
+	@echo "... main.s"
 .PHONY : help
 
 

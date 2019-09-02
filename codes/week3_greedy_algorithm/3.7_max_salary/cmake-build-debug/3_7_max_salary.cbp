@@ -80,7 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/gravescn/Library/Mobile Documents/com~apple~CloudDocs/Programming/coursera/algorithm-coursera/codes/week3_greedy_algorithm/3.7_max_salary/largest_number.cpp">
+		<Unit filename="/Users/gravescn/Library/Mobile Documents/com~apple~CloudDocs/Programming/coursera/algorithm-coursera/codes/week3_greedy_algorithm/3.7_max_salary/main.cpp">
 			<Option target="3_7_max_salary"/>
 		</Unit>
 		<Unit filename="/Users/gravescn/Library/Mobile Documents/com~apple~CloudDocs/Programming/coursera/algorithm-coursera/codes/week3_greedy_algorithm/3.7_max_salary/CMakeLists.txt">

@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/3_7_max_salary.dir/largest_number.cpp.o"
+  "CMakeFiles/3_7_max_salary.dir/main.cpp.o"
   "3_7_max_salary.pdb"
   "3_7_max_salary"
 )

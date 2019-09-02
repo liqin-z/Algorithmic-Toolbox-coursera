@@ -4,4 +4,4 @@ project(3_7_max_salary)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(3_7_max_salary
-        largest_number.cpp)
+        main.cpp)

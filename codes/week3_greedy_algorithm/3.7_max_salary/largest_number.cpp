@@ -45,8 +45,8 @@ string largest_number(vector<string> a) {
     for (size_t i = 0; i < maxhead.size(); ++i) {
         for (size_t j = 0; j < maxhead.size() - i - 1; ++i) {
             if (maxhead[j].max == maxhead[j + 1].max) {
-                string a = to_string(origin[maxhead[i].index]);
-                string b = to_string(origin[maxhead[i + 1].index]);
+                string a = to_string(origin[maxhead[j].index]);
+                string b = to_string(origin[maxhead[j + 1].index]);
                 if (stoi(a + b) < stoi(b + a)) {
                     int temp_index = maxhead[j].index;
                     maxhead[j].index = maxhead[j + 1].index;

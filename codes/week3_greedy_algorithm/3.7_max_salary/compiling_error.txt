@@ -1,0 +1,4 @@
+/Users/gravescn/Library/Mobile Documents/com~apple~CloudDocs/Programming/coursera/algorithm-coursera/codes/week3_greedy_algorithm/3.7_max_salary/test.cpp:33:42: error: expected expression
+    sort(maxhead.begin(), maxhead.end(), [](const number &x, const number &y) -> bool { return x.max > y.max; });
+                                         ^
+1 error generated.

@@ -57,27 +57,27 @@ include CMakeFiles/3_7_max_salary.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/3_7_max_salary.dir/flags.make
 
-CMakeFiles/3_7_max_salary.dir/largest_number.cpp.o: CMakeFiles/3_7_max_salary.dir/flags.make
-CMakeFiles/3_7_max_salary.dir/largest_number.cpp.o: ../largest_number.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/gravescn/Library/Mobile Documents/com~apple~CloudDocs/Programming/coursera/algorithm-coursera/codes/week3_greedy_algorithm/3.7_max_salary/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/3_7_max_salary.dir/largest_number.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/3_7_max_salary.dir/largest_number.cpp.o -c "/Users/gravescn/Library/Mobile Documents/com~apple~CloudDocs/Programming/coursera/algorithm-coursera/codes/week3_greedy_algorithm/3.7_max_salary/largest_number.cpp"
+CMakeFiles/3_7_max_salary.dir/main.cpp.o: CMakeFiles/3_7_max_salary.dir/flags.make
+CMakeFiles/3_7_max_salary.dir/main.cpp.o: ../main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/gravescn/Library/Mobile Documents/com~apple~CloudDocs/Programming/coursera/algorithm-coursera/codes/week3_greedy_algorithm/3.7_max_salary/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/3_7_max_salary.dir/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/3_7_max_salary.dir/main.cpp.o -c "/Users/gravescn/Library/Mobile Documents/com~apple~CloudDocs/Programming/coursera/algorithm-coursera/codes/week3_greedy_algorithm/3.7_max_salary/main.cpp"
 
-CMakeFiles/3_7_max_salary.dir/largest_number.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/3_7_max_salary.dir/largest_number.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/gravescn/Library/Mobile Documents/com~apple~CloudDocs/Programming/coursera/algorithm-coursera/codes/week3_greedy_algorithm/3.7_max_salary/largest_number.cpp" > CMakeFiles/3_7_max_salary.dir/largest_number.cpp.i
+CMakeFiles/3_7_max_salary.dir/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/3_7_max_salary.dir/main.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/gravescn/Library/Mobile Documents/com~apple~CloudDocs/Programming/coursera/algorithm-coursera/codes/week3_greedy_algorithm/3.7_max_salary/main.cpp" > CMakeFiles/3_7_max_salary.dir/main.cpp.i
 
-CMakeFiles/3_7_max_salary.dir/largest_number.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/3_7_max_salary.dir/largest_number.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/gravescn/Library/Mobile Documents/com~apple~CloudDocs/Programming/coursera/algorithm-coursera/codes/week3_greedy_algorithm/3.7_max_salary/largest_number.cpp" -o CMakeFiles/3_7_max_salary.dir/largest_number.cpp.s
+CMakeFiles/3_7_max_salary.dir/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/3_7_max_salary.dir/main.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/gravescn/Library/Mobile Documents/com~apple~CloudDocs/Programming/coursera/algorithm-coursera/codes/week3_greedy_algorithm/3.7_max_salary/main.cpp" -o CMakeFiles/3_7_max_salary.dir/main.cpp.s
 
 # Object files for target 3_7_max_salary
 3_7_max_salary_OBJECTS = \
-"CMakeFiles/3_7_max_salary.dir/largest_number.cpp.o"
+"CMakeFiles/3_7_max_salary.dir/main.cpp.o"
 
 # External object files for target 3_7_max_salary
 3_7_max_salary_EXTERNAL_OBJECTS =
 
-3_7_max_salary: CMakeFiles/3_7_max_salary.dir/largest_number.cpp.o
+3_7_max_salary: CMakeFiles/3_7_max_salary.dir/main.cpp.o
 3_7_max_salary: CMakeFiles/3_7_max_salary.dir/build.make
 3_7_max_salary: CMakeFiles/3_7_max_salary.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/gravescn/Library/Mobile Documents/com~apple~CloudDocs/Programming/coursera/algorithm-coursera/codes/week3_greedy_algorithm/3.7_max_salary/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable 3_7_max_salary"

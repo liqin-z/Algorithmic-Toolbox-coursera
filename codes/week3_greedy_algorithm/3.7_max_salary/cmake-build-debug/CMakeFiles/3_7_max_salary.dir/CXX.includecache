@@ -6,14 +6,12 @@
 
 #IncludeRegexTransform: 
 
-/Users/gravescn/Library/Mobile Documents/com~apple~CloudDocs/Programming/coursera/algorithm-coursera/codes/week3_greedy_algorithm/3.7_max_salary/largest_number.cpp
+/Users/gravescn/Library/Mobile Documents/com~apple~CloudDocs/Programming/coursera/algorithm-coursera/codes/week3_greedy_algorithm/3.7_max_salary/main.cpp
 algorithm
 -
 sstream
 -
 iostream
--
-iterator
 -
 vector
 -
