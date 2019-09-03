@@ -47,7 +47,7 @@ Problem: [Covering Segments by Points](https://github.com/graveszhang/Specializa
 
 Problem: [Pairwise Distinct Summands](https://github.com/graveszhang/Specialization-Algorithmic-Toolbox-coursera/blob/master/codes/week3_greedy_algorithm/3.6_max_num_prizes/main.cpp) </br>
 
-Problem: [Maximum Salary](https://github.com/graveszhang/Specialization-Algorithmic-Toolbox-coursera/blob/master/codes/week3_greedy_algorithm/3.7_max_salary/largest_number.cpp) </br>
+Problem: [Maximum Salary](https://github.com/graveszhang/Specialization-Algorithmic-Toolbox-coursera/blob/master/codes/week3_greedy_algorithm/3.7_max_salary/main.cpp) </br>
 
 ## Week 4
 ###  Programming Assignment: [Divide and Conquer](https://github.com/mablatnik/Data-Structures-And-Algorithms/blob/master/algorithmic_toolbox/week_4/03_divide_and_conquer_problems.pdf)
